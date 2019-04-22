@@ -267,6 +267,11 @@ module.exports = function () {
         'web': 'https://freifunk-koenigswinter.de/',
         'map': 'http://map.freifunk-koenigswinter.de/'
       }, {
+        'domain': 'Kitzingen',
+        'name': 'Kitzingen',
+        'web': 'https://freifunk-Kitzingen.de/',
+        'map': 'http://map.freifunk-Kitzingen.de/'
+      }, {
         'domain': 'roenkhausen',
         'name': 'Rönkhausen'
       }
